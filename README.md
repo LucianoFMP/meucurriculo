@@ -19,7 +19,7 @@
         }
 
         #profile-image {
-            C:\Users\luc_n\Downloads\fotoprocurriculo.jpg
+            <img src="C:\Users\luc_n\Downloads\fotoprocurriculo.jpg">
             max-width: 200px;
             border-radius: 50%;
             display: block;
