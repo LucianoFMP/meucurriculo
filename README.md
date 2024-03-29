@@ -38,17 +38,17 @@
     <div id="main-content">
         <h2>Dados Pessoais</h2>
         <img id="profile-image" src="[./C:\Users\luc_n\Downloads\fotoprocurriculo.jpg](https://github.com/LucianoFMP/meucurriculo/blob/main/fotoprocurriculo.jpg)" alt="Foto de Perfil">
-        <p>Nome: Luciano Smanioto</p>
+        <p>Nome: Luciano Smanioto Neto</p>
         <p>E-mail: luciano.neto@fmpsc.edu.br</p>
         <p>Telefone: (48) 99972-2999</p>
 
-        <br>
+        
         <h2>Experiência Profissional</h2>
         <p>Cargo: Assessor técnico</p>
         <p>Empresa: Prefeitura de Palhoça</p>
         <p>Descrição: Produzir material de divulgação das ações realizadas pela Prefeitura e distribuir para a imprensa.</p>
 
-        <br>
+        
         <h2>Formação Acadêmica</h2>
         <p>Curso: Jornalismo</p>
         <p>Instituição: Universidade Federal de Santa Maria</p>
