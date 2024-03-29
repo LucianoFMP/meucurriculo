@@ -37,7 +37,7 @@
     </div>
     <div id="main-content">
         <h2>Dados Pessoais</h2>
-        <img id="profile-image" src="./C:\Users\luc_n\Downloads\fotoprocurriculo.jpg" alt="Foto de Perfil">
+        <img id="profile-image" src="[./C:\Users\luc_n\Downloads\fotoprocurriculo.jpg](https://github.com/LucianoFMP/meucurriculo/blob/main/fotoprocurriculo.jpg)" alt="Foto de Perfil">
         <p>Nome: Luciano Smanioto</p>
         <p>E-mail: luciano.neto@fmpsc.edu.br</p>
         <p>Telefone: (48) 99972-2999</p>
