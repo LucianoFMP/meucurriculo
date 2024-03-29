@@ -15,7 +15,7 @@
             background-color: #836;
             color: #fff;
             text-align: center;
-            padding: 20px;
+            padding: 30px;
         }
 
         #profile-image {
@@ -38,7 +38,7 @@
     <div id="main-content">
         <h2>Dados Pessoais</h2>
         <img id="profile-image" src="./C:\Users\luc_n\Downloads\fotoprocurriculo.jpg" alt="Foto de Perfil">
-        <p>Nome: Luciano Smanioto Neto</p>
+        <p>Nome: Luciano Smanioto</p>
         <p>E-mail: luciano.neto@fmpsc.edu.br</p>
         <p>Telefone: (48) 99972-2999</p>
 
