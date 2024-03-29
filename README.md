@@ -19,7 +19,7 @@
         }
 
         #profile-image {
-            <img src="C:\Users\luc_n\Downloads\fotoprocurriculo.jpg">
+       
             max-width: 200px;
             border-radius: 50%;
             display: block;
@@ -37,7 +37,7 @@
     </div>
     <div id="main-content">
         <h2>Dados Pessoais</h2>
-        <img id="profile-image" src="caminho_para_a_sua_imagem.jpg" alt="Foto de Perfil">
+        <img id="profile-image" src="C:\Users\luc_n\Downloads\fotoprocurriculo.jpg" alt="Foto de Perfil">
         <p>Nome: Luciano Smanioto</p>
         <p>E-mail: luciano.neto@fmpsc.edu.br</p>
         <p>Telefone: (48) 99972-2999</p>
